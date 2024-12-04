@@ -21,8 +21,7 @@ Lightweight autocomplete component for React Native built with TypeScript.
 
 You can watch a demo of the component in action below:
 
-![Demo Video](demo.mp4)
-                           |
+![Demo Video](https://files.fm/u/3mcppsmvfb#/view/8cp3y22pny)
 
 ## Install Dependencies
 
